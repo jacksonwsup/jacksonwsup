@@ -10,6 +10,7 @@
 - 📫 How to reach me **jacksonwsup@gmail.com**
 
 - kaggle: [https://www.kaggle.com/jacksonrodrigues](https://www.kaggle.com/jacksonrodrigues)
+- Replit: [https://replit.com/@jacksonswup](https://replit.com/@jacksonswup)
 
 - ⚡ Fun fact **I like swimming, functional, pilates and running.**
 
