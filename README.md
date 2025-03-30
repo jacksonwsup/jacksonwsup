@@ -2,13 +2,13 @@
 
 ## Sobre Mim
 
-Sou um Analista de Sistemas apaixonado por programação, ciência de dados e DEV-SEC-OPS. Atualmente, estou focado em Data Science, Java, Python, Business API Building, Kubernetes, Docker e Linux.
+Sou um Analista de Sistemas apaixonado por programação, ciência de dados e DEV-SEC-OPS. Atualmente, estou focado em Data Science, Java, Python, Business API Building, Kubernetes, Docker e Linux. Além disso, estou realizando pesquisas em LLM, Inteligência Artificial (IA), Machine Learning (ML) e Deep Learning (DL), com foco em Jurimetria durante meu mestrado.
 
 ## Habilidades
 
 -   **Linguagens:** Python, Java, TypeScript, JavaScript
--   **Tecnologias:** Kubernetes, Docker, Linux, Data Science
--   **Áreas de Interesse:** Desenvolvimento de APIs, Segurança da Informação
+-   **Tecnologias:** Kubernetes, Docker, Linux, Data Science, LLM, IA, ML, DL
+-   **Áreas de Interesse:** Desenvolvimento de APIs, Segurança da Informação, Jurimetria
 
 ## Estatísticas do GitHub
 
@@ -33,6 +33,10 @@ Sou um Analista de Sistemas apaixonado por programação, ciência de dados e DE
 
 -   Gosto de nadar, treino funcional, pilates e corrida.
 
+## Pesquisa e Mestrado
+
+-   Pesquisando e estudando sobre LLM, IA, ML e DL.
+-   Mestrado em Jurimetria, aplicando técnicas de ML e DL na área jurídica.
 
 <h1 align="center">Hi 👋, I'm Jackson Rodrigues</h1>
 <h3 align="center">Analista de sistemas apaixonado por programação, ciência de dados e DEV-SEC-OPS</h3>
