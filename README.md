@@ -1,3 +1,39 @@
+# Olá, eu sou Jackson Rodrigues 
+
+## Sobre Mim
+
+Sou um Analista de Sistemas apaixonado por programação, ciência de dados e DEV-SEC-OPS. Atualmente, estou focado em Data Science, Java, Python, Business API Building, Kubernetes, Docker e Linux.
+
+## Habilidades
+
+-   **Linguagens:** Python, Java, TypeScript, JavaScript
+-   **Tecnologias:** Kubernetes, Docker, Linux, Data Science
+-   **Áreas de Interesse:** Desenvolvimento de APIs, Segurança da Informação
+
+## Estatísticas do GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_NOME_DE_USUÁRIO&show_icons=true&theme=radical)](https://github.com/SEU_NOME_DE_USUÁRIO)
+
+## Projetos em Destaque
+
+-   [Nome do Projeto 1](URL_DO_PROJETO_1): Descrição breve do projeto.
+-   [Nome do Projeto 2](URL_DO_PROJETO_2): Descrição breve do projeto.
+
+## Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](URL_DO_SEU_LINKEDIN)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20D478?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jacksonrodrigues)
+[![Replit](https://img.shields.io/badge/Replit-0E0E0E?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@jacksonswup)
+
+## Entre em Contato
+
+-   Email: jacksonwsup@gmail.com
+
+## Curiosidades
+
+-   Gosto de nadar, treino funcional, pilates e corrida.
+
+
 <h1 align="center">Hi 👋, I'm Jackson Rodrigues</h1>
 <h3 align="center">Analista de sistemas apaixonado por programação, ciência de dados e DEV-SEC-OPS</h3>
 
